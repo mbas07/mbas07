@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mbas07
+- 👀 I’m interested in bioinformatics $ biostadistics
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on opensource projects
+- 📫
+- ⚡ Fun fact: I really enjoy grassfed meat
