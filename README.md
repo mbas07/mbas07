@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbas07
+# Hi, I’m @mbas07
 - 👀 I’m interested in bioinformatics $ biostadistics
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on opensource projects
